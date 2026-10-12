@@ -1,0 +1,577 @@
+{
+  "site": "The Quote Codex",
+  "url": "https://codex.scavenger.pro",
+  "shelves": [
+    {
+      "id": "heart",
+      "name": "Matters of the Heart"
+    },
+    {
+      "id": "dark",
+      "name": "In the Dark"
+    },
+    {
+      "id": "light",
+      "name": "Finding the Light"
+    },
+    {
+      "id": "drive",
+      "name": "Drive"
+    },
+    {
+      "id": "wisdom",
+      "name": "Wisdom & Truth"
+    },
+    {
+      "id": "lighter",
+      "name": "Lighter Pages"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "love-quotes",
+      "name": "Love",
+      "shelf": "heart",
+      "intro": "For the quiet kind of love, the loud kind, and the kind that chooses you again and again.",
+      "quotes": [
+        "Love isn’t found in grand gestures; it’s hidden in the quiet moments when someone chooses you again and again.",
+        "When two souls are meant to meet, even silence becomes a language they understand.",
+        "Love is the courage to be vulnerable in a world that teaches you to guard your heart.",
+        "The right person won’t make you forget your past — they’ll make you glad it led you here.",
+        "Real love doesn’t ask you to shrink; it makes room for all of you.",
+        "Some people feel like home the moment you meet them.",
+        "Love is not a feeling you fall into — it’s a choice you keep making.",
+        "You can tell it’s love when ordinary days start to feel like something worth remembering.",
+        "The best love stories aren’t perfect; they’re the ones where both people stay.",
+        "Love is patient with your storms and gentle with your scars.",
+        "Being loved for who you are is the closest thing to magic this life offers.",
+        "Hold the ones who hold you when the world lets go."
+      ]
+    },
+    {
+      "slug": "self-love-quotes",
+      "name": "Self-Love",
+      "shelf": "heart",
+      "intro": "Reminders that the longest relationship you’ll ever have is the one with yourself.",
+      "quotes": [
+        "Loving yourself isn’t vanity — it’s survival.",
+        "The relationship you have with yourself sets the tone for every other one.",
+        "You deserve the same love you keep giving to everyone else.",
+        "Self-love begins the moment you stop apologizing for being yourself.",
+        "Treat yourself with the kindness you wish others would show you.",
+        "You are allowed to be both a masterpiece and a work in progress.",
+        "Rest is not a reward you earn — it’s something you deserve.",
+        "Stop shrinking to fit places you’ve already outgrown.",
+        "Your worth doesn’t drop because someone failed to see it.",
+        "Be proud of how far you’ve come, even if you’re not where you want to be yet.",
+        "Choosing yourself isn’t selfish; it’s how you stay whole.",
+        "Speak to yourself like someone you love — because you are."
+      ]
+    },
+    {
+      "slug": "heartbroken-quotes",
+      "name": "Heartbroken",
+      "shelf": "heart",
+      "intro": "For the nights a heart feels heavier than it should — and the mornings it keeps going anyway.",
+      "quotes": [
+        "A broken heart doesn’t beat the same, but it still learns how to keep going.",
+        "Heartbreak feels like losing a part of yourself you never meant to give away.",
+        "The deepest pain comes from loving someone who treated you like a choice.",
+        "It hurts when your heart holds on to what your mind already let go.",
+        "Some goodbyes are never spoken; they just slowly happen.",
+        "You can miss someone and still know you’re better without them.",
+        "Heartbreak teaches you the difference between being wanted and being valued.",
+        "The heart heals slowly because it loved deeply.",
+        "It’s strange how a single person can take the color out of everything.",
+        "One day you’ll tell this story without your voice breaking.",
+        "Broken hearts still beat — and that’s a kind of courage.",
+        "Not every ending is a failure; some are just the heart finding its way back to you."
+      ]
+    },
+    {
+      "slug": "breakup-quotes",
+      "name": "Breakup",
+      "shelf": "heart",
+      "intro": "For endings that hurt, lessons that stay, and the person you become on the other side.",
+      "quotes": [
+        "Breakups don’t just end relationships — they end versions of you that no longer fit.",
+        "The hardest part of a breakup is unlearning the habits you built around someone else.",
+        "Sometimes letting go is the only way to stop breaking your own heart.",
+        "Breakups hurt, but staying where you’re not valued hurts longer.",
+        "Closure isn’t something they give you — it’s something you decide.",
+        "You didn’t lose them; you found your way back to yourself.",
+        "Missing someone doesn’t mean you should go back.",
+        "The end of us was the beginning of me.",
+        "Don’t confuse familiarity with love — some comfort is just a cage you’re used to.",
+        "Let the right one go if it means keeping yourself.",
+        "Healing after a breakup isn’t forgetting them; it’s remembering you.",
+        "Walk away with your head high — you gave it everything you had."
+      ]
+    },
+    {
+      "slug": "family-quotes",
+      "name": "Family",
+      "shelf": "heart",
+      "intro": "For the people who show up — by blood or by choice.",
+      "quotes": [
+        "Family isn’t defined by blood — it’s defined by the people who show up.",
+        "The greatest gift family gives you is a place where you can be yourself without fear.",
+        "Family may not be perfect, but their love is often the foundation you stand on.",
+        "Home is not a place; it’s the people who make you feel safe.",
+        "Some of the strongest families are built, not born.",
+        "A family that listens is a family that heals together.",
+        "No matter how far you go, the people who raised you travel with you.",
+        "Family is where life begins and love never ends.",
+        "Laughter around the table is worth more than anything on it.",
+        "Hold your family close — time is the one thing you can’t get back.",
+        "The roots you come from give you the strength to grow anywhere.",
+        "Family is the first place you learn what love looks like."
+      ]
+    },
+    {
+      "slug": "friendship-quotes",
+      "name": "Friendship",
+      "shelf": "heart",
+      "intro": "For the ones who stay, the ones who understand, and the ones who make life lighter.",
+      "quotes": [
+        "Real friends are the ones who stay when life gives you every reason to push people away.",
+        "A true friend doesn’t just hear your words — they understand the silence between them.",
+        "Friendship is the comfort of knowing that someone chooses you even on your difficult days.",
+        "The best friendships feel like coming home after a long trip.",
+        "Good friends don’t keep score; they keep showing up.",
+        "Find the people who clap loudest when you win — and stay closest when you fall.",
+        "A friend is someone who knows your story and still asks about the next chapter.",
+        "Distance means little when the friendship means everything.",
+        "Some friends become family without ever asking permission.",
+        "Laugh with the ones who make your worst days a little lighter.",
+        "True friendship isn’t about being inseparable; it’s about being apart and nothing changing.",
+        "Keep the friends who make you better, not just busier."
+      ]
+    },
+    {
+      "slug": "pain-quotes",
+      "name": "Pain",
+      "shelf": "dark",
+      "intro": "Words for what hurts — and for the strength it quietly builds.",
+      "quotes": [
+        "Pain doesn’t end you — it rewrites you.",
+        "Every pain you survive adds a new layer to your strength.",
+        "Pain won’t ask if you’re ready — it arrives, then teaches.",
+        "Some pain isn’t meant to be fixed — just carried with grace.",
+        "Pain changes you, not because you want it to, but because it leaves you no choice.",
+        "The deepest pain is the kind you hide behind a practiced smile.",
+        "Pain doesn’t ask for permission — it shows up, teaches you, and leaves scars as reminders.",
+        "Sometimes the pain you avoid is the lesson you need the most.",
+        "You only begin to heal when you stop pretending it doesn’t hurt.",
+        "Scars are proof that pain didn’t win.",
+        "Pain shapes you; it doesn’t get to define you.",
+        "What hurt you once doesn’t get to hold you forever.",
+        "Pain shared is pain halved — you don’t have to carry it alone.",
+        "Even the heaviest pain gets lighter the day you finally put it into words."
+      ]
+    },
+    {
+      "slug": "sad-quotes",
+      "name": "Sad",
+      "shelf": "dark",
+      "intro": "For the heavy days — because sometimes being understood is the first step back.",
+      "quotes": [
+        "Sometimes the loudest pain is the one you never speak about.",
+        "It’s heartbreaking how you can miss someone who was never really yours.",
+        "Sadness has a way of teaching you the truths happiness never could.",
+        "It hurts when the people you’d fight for wouldn’t lift a finger for you.",
+        "Some days you’re fine, and some days the smallest thing brings it all back.",
+        "Tears are words the heart can’t say out loud.",
+        "The saddest thing about the past is that it always looks better than it was.",
+        "You can be surrounded by people and still feel completely unseen.",
+        "Sadness is just love with nowhere to go.",
+        "It’s okay to not be okay — just don’t unpack and live there.",
+        "Even sad songs end, and so will this chapter.",
+        "Be gentle with the heart that’s been carrying more than it shows."
+      ]
+    },
+    {
+      "slug": "dark-quotes",
+      "name": "Dark",
+      "shelf": "dark",
+      "intro": "Honest words from the shadows — for the thoughts most people never say out loud.",
+      "quotes": [
+        "Some smiles exist only to hide how close someone is to breaking.",
+        "Darkness doesn’t scare you until it starts to feel familiar.",
+        "The quietest people often carry the loudest thoughts.",
+        "Not every wound bleeds — some just hollow you out.",
+        "Darkness grows when pain goes unspoken.",
+        "The night knows secrets the day never hears.",
+        "Some people become cold not because they stopped caring, but because they cared too much for too long.",
+        "Shadows only exist because somewhere, there’s still light.",
+        "The mind can be a dark room — but every room has a door.",
+        "You don’t see the battles people fight behind closed eyes.",
+        "Sometimes the monster under the bed is just the memory you never faced.",
+        "Even in the darkest places, a single honest word can be a lantern."
+      ]
+    },
+    {
+      "slug": "deep-quotes",
+      "name": "Deep",
+      "shelf": "dark",
+      "intro": "Thoughts that go beneath the surface — for the late-night thinkers.",
+      "quotes": [
+        "Growth begins when you stop lying to yourself about what hurts.",
+        "The truth changes you once you’re brave enough to face it.",
+        "You don’t lose people — you lose versions of yourself attached to them.",
+        "Healing isn’t fixing what’s broken; it’s understanding what broke you.",
+        "We are all stories in the end — make yours worth reading.",
+        "The things you carry quietly shape you the loudest.",
+        "Some answers only come when you stop asking the same questions.",
+        "Every person you meet is fighting a chapter you’ll never read.",
+        "Time doesn’t heal everything — it just teaches you how to hold it.",
+        "The deepest conversations happen in the silence after the words.",
+        "You become what you repeat — in thought, in habit, in love.",
+        "Who you are when no one is watching is who you really are."
+      ]
+    },
+    {
+      "slug": "alone-quotes",
+      "name": "Alone",
+      "shelf": "dark",
+      "intro": "On solitude, silence, and learning the difference between lonely and at peace.",
+      "quotes": [
+        "Being alone isn’t the same as being lonely — sometimes solitude is where you find yourself again.",
+        "The silence feels heavier when you’re the only one hearing it.",
+        "Alone is where you learn the difference between loneliness and peace.",
+        "Sometimes you need to be alone to hear what your heart has been trying to say.",
+        "I’d rather walk alone than walk with people who don’t see me.",
+        "Solitude is where you meet the person you’ve been too busy to know.",
+        "The loneliest moment is realizing you were always the one who reached out first.",
+        "Learn to enjoy your own company — you’re the one constant in your life.",
+        "Alone, but not lost.",
+        "Some nights are quiet so you can finally hear yourself.",
+        "Being alone taught me who I am without anyone telling me.",
+        "Peace sometimes looks like an empty room and a calm mind."
+      ]
+    },
+    {
+      "slug": "hope-quotes",
+      "name": "Hope",
+      "shelf": "light",
+      "intro": "For when the night feels long — a small light that refuses to go out.",
+      "quotes": [
+        "Hope is the quiet belief that tomorrow can be better, even when today feels heavy.",
+        "When everything feels dark, hope is the small light that refuses to go out.",
+        "Hope doesn’t erase pain, but it makes the journey bearable.",
+        "Even the longest night ends — that’s the promise hope keeps.",
+        "Hope is planting seeds in winter and trusting the spring.",
+        "As long as you’re still here, the story isn’t over.",
+        "A little hope goes further than a lot of fear.",
+        "Hope is not pretending things are fine — it’s believing they can be.",
+        "Storms don’t last forever; neither does this.",
+        "Keep a door open in your heart — light finds its way in.",
+        "Hope is the voice that whispers, “Try one more time.”",
+        "The sun has never once failed to rise."
+      ]
+    },
+    {
+      "slug": "healing-quotes",
+      "name": "Healing",
+      "shelf": "light",
+      "intro": "Healing isn’t a straight line. These are for every step of it.",
+      "quotes": [
+        "Healing doesn’t happen all at once — it happens quietly, in moments you barely notice.",
+        "You’re allowed to take your time; healing isn’t a race.",
+        "Some wounds don’t close quickly, but they still teach you how to grow.",
+        "Healing begins the moment you stop pretending you’re okay.",
+        "Healing is choosing yourself, again and again, even on the hard days.",
+        "You don’t have to be fully healed to be worthy of love.",
+        "Some days healing looks like progress; other days it looks like rest.",
+        "Your past explains you; it doesn’t get to define you.",
+        "Healing is learning to hold the memory without holding the pain.",
+        "Every time you choose peace over a fight, you heal a little more.",
+        "Be patient with the version of you that’s still learning to let go.",
+        "One day you’ll look back and realize you healed in places you thought were permanent."
+      ]
+    },
+    {
+      "slug": "happiness-quotes",
+      "name": "Happiness",
+      "shelf": "light",
+      "intro": "On the quiet, simple joy that’s easy to miss when you’re rushing.",
+      "quotes": [
+        "Happiness often hides in the moments you rush past without noticing.",
+        "The simplest things bring the greatest joy when your heart is at peace.",
+        "True happiness isn’t loud — it’s a quiet feeling that settles softly inside you.",
+        "When you stop chasing what you think happiness should look like, it finds you.",
+        "Happiness isn’t a finish line; it’s the way you walk.",
+        "Keep the moments; let go of the clutter.",
+        "The happiest people aren’t the ones with the most — they’re the ones who notice the most.",
+        "Joy is found in small mornings, warm coffee, and people who feel like sunshine.",
+        "Happiness grows when it’s shared.",
+        "Let yourself enjoy the good days without waiting for the bad ones.",
+        "Peace of mind is the most underrated kind of happiness.",
+        "Smile at the small things — they’re the big things in disguise."
+      ]
+    },
+    {
+      "slug": "positive-quotes",
+      "name": "Positive",
+      "shelf": "light",
+      "intro": "Small reminders that good things are still out there — and still on their way.",
+      "quotes": [
+        "Every day carries a small miracle if you’re willing to look for it.",
+        "A positive mindset won’t solve every problem, but it will make every problem easier to face.",
+        "Light always finds a way in — sometimes through the cracks you never noticed.",
+        "Even on hard days, there is something worth being grateful for.",
+        "Good things are coming — keep your heart open for them.",
+        "Your energy introduces you before you even speak.",
+        "Choose the thought that lifts you instead of the one that weighs you down.",
+        "Today is a fresh page — write something good on it.",
+        "Gratitude turns what you have into enough.",
+        "Be the reason someone believes in good people.",
+        "Positive doesn’t mean pretending; it means choosing hope on purpose.",
+        "Bright days start with a single good thought."
+      ]
+    },
+    {
+      "slug": "mindfulness-quotes",
+      "name": "Mindfulness",
+      "shelf": "light",
+      "intro": "Slow down, breathe, and be where your feet are.",
+      "quotes": [
+        "Be where your feet are — the present moment is the only one that truly exists.",
+        "When you slow down, life finally has room to speak to you.",
+        "Mindfulness is noticing the small things before they become big emotions.",
+        "Peace begins the moment you stop fighting the present.",
+        "Breathe — it’s the simplest way back to yourself.",
+        "You can’t calm the storm, but you can calm yourself inside it.",
+        "Don’t let tomorrow’s worries steal today’s peace.",
+        "Pause before reacting; that pause is where your power lives.",
+        "Feel the moment instead of photographing it.",
+        "Quiet the mind and the soul will speak.",
+        "Not every thought deserves your attention.",
+        "Right now, in this breath, you are okay."
+      ]
+    },
+    {
+      "slug": "inspirational-quotes",
+      "name": "Inspirational",
+      "shelf": "light",
+      "intro": "For anyone who needs a reason to take the next step.",
+      "quotes": [
+        "Small steps become big victories when you refuse to quit.",
+        "Growth begins the moment you stop waiting for the perfect moment and start with what you have.",
+        "You don’t need to move fast; you just need to keep moving.",
+        "Every struggle is shaping you into someone you once prayed to become.",
+        "Begin with what’s in your hands; the rest arrives as you move.",
+        "The comeback is always stronger than the setback.",
+        "Believe in the version of you that hasn’t given up yet.",
+        "A dream without effort is just a beautiful thought.",
+        "Your story isn’t finished — the best chapters may still be unwritten.",
+        "Courage doesn’t always roar; sometimes it’s the quiet voice saying “try again tomorrow.”",
+        "Falling is part of the climb; staying down is optional.",
+        "You were built for more than just getting by."
+      ]
+    },
+    {
+      "slug": "success-quotes",
+      "name": "Success",
+      "shelf": "drive",
+      "intro": "Built from small, disciplined actions — long after the motivation fades.",
+      "quotes": [
+        "Success is built from small, disciplined actions repeated long after the motivation fades.",
+        "The only real competition you have is who you were yesterday.",
+        "Success doesn’t come from perfection — it comes from persistence.",
+        "Every setback contains the seed of a stronger comeback.",
+        "Success is the result of choosing growth over comfort, again and again.",
+        "Work in silence; let your results make the noise.",
+        "Discipline is choosing what you want most over what you want now.",
+        "Every “overnight” success has a thousand quiet nights behind it.",
+        "Success isn’t a trophy you keep; it’s a habit you renew every day.",
+        "Your habits are quietly building your future.",
+        "Don’t wish for it. Work for it.",
+        "Measure success by how many times you got back up."
+      ]
+    },
+    {
+      "slug": "work-quotes",
+      "name": "Work",
+      "shelf": "drive",
+      "intro": "For the grind, the craft, and the days you show up anyway.",
+      "quotes": [
+        "Work becomes meaningful when you stop doing it for approval and start doing it for growth.",
+        "The difference between good work and great work is often a few extra minutes of effort.",
+        "Show up even when you don’t feel like it — that’s where real progress begins.",
+        "The best work comes from people who care about the details no one else notices.",
+        "Do it right, even when no one is checking.",
+        "Effort shows up on the days talent stays home.",
+        "Pride in your work is a reward no paycheck can match.",
+        "Focus on progress, not busyness.",
+        "Your work is your signature — make it worth signing.",
+        "Rest is part of the work.",
+        "Great work is just small work done well, over and over.",
+        "Work hard, stay humble, and let your effort speak."
+      ]
+    },
+    {
+      "slug": "study-quotes",
+      "name": "Study",
+      "shelf": "drive",
+      "intro": "Motivation for long nights, open books, and the future you’re building.",
+      "quotes": [
+        "Study not to memorize, but to understand — knowledge rooted in understanding lasts forever.",
+        "Every page you turn is a step toward the future you want.",
+        "The hardest part of studying is starting; the second hardest is stopping.",
+        "A disciplined mind becomes an unstoppable force.",
+        "Studying is an investment your future self will thank you for.",
+        "Learn something today that your future self will be proud of.",
+        "Focus now so you can relax later.",
+        "Mistakes are proof that you’re trying to learn.",
+        "Consistency beats cramming every time.",
+        "Knowledge is the one thing no one can take from you.",
+        "Small study sessions add up to big results.",
+        "Curiosity is the engine; discipline is the fuel."
+      ]
+    },
+    {
+      "slug": "attitude-quotes",
+      "name": "Attitude",
+      "shelf": "drive",
+      "intro": "Confidence, backbone, and the energy you bring into every room.",
+      "quotes": [
+        "Confidence is silent; insecurity is loud — choose your volume wisely.",
+        "Your attitude decides your direction long before your feet start moving.",
+        "Stand tall, even when life tries to bend you.",
+        "A strong attitude doesn’t mean you’re unbreakable — it means you rise every time you break.",
+        "Don’t let anyone with a bad attitude ruin your good one.",
+        "I’m not for everyone, and that’s the point.",
+        "Be humble enough to learn and confident enough to lead.",
+        "The energy you carry decides who sticks around.",
+        "Respect is earned, but peace is protected.",
+        "I don’t compete — I improve.",
+        "Calm minds win loud battles.",
+        "Walk like you already belong — because you do."
+      ]
+    },
+    {
+      "slug": "wisdom-quotes",
+      "name": "Wisdom",
+      "shelf": "wisdom",
+      "intro": "Lessons that take years to learn — collected in a few lines.",
+      "quotes": [
+        "Wisdom begins when you realize how much you still have to learn.",
+        "Not every battle is worth fighting; some are won by simply walking away.",
+        "Your life improves the moment you stop arguing with reality.",
+        "The wiser you become, the quieter your response to chaos.",
+        "Learn to listen more than you speak; the lessons are in the silence.",
+        "Life rarely explains the lesson until after the test.",
+        "Understanding others is useful; understanding yourself is freedom.",
+        "Patience is wisdom in action.",
+        "What you allow will continue.",
+        "The wise don’t seek to be right; they seek to understand.",
+        "Choose your words carefully — they outlive the moment.",
+        "Sometimes the answer is to simply let it be."
+      ]
+    },
+    {
+      "slug": "truth-quotes",
+      "name": "Truth",
+      "shelf": "wisdom",
+      "intro": "Clarity without apology — for when you’re ready to see things as they are.",
+      "quotes": [
+        "The truth doesn’t disappear when ignored — it waits patiently to be acknowledged.",
+        "People may lie with words, but their actions always reveal the truth.",
+        "The truth may hurt, but deception destroys.",
+        "Truth and comfort rarely live in the same place.",
+        "When you accept the truth, healing finally has room to begin.",
+        "Truth doesn’t need proof when it’s felt in your gut.",
+        "What you deny in truth becomes what you battle in silence.",
+        "Truth isn’t cruel — it’s clarity without apology.",
+        "The longer you avoid the truth, the louder your life will echo it.",
+        "Truth shows up eventually; it just waits for you to stop looking away.",
+        "Be honest even when it costs you — lies always cost more.",
+        "The truth sets you free, but first it shakes everything loose."
+      ]
+    },
+    {
+      "slug": "life-quotes",
+      "name": "Life",
+      "shelf": "wisdom",
+      "intro": "On the lessons, turns, and moments that make a life.",
+      "quotes": [
+        "Life teaches you more through the moments that break you than the ones that comfort you.",
+        "The hardest lessons often reveal the parts of ourselves we’ve been avoiding.",
+        "Life doesn’t wait for you to be ready — it pushes you forward and expects you to grow.",
+        "What you choose to focus on becomes the shape of your life.",
+        "Life is short; spend it with people who make it feel long in the best way.",
+        "Not everything happens for a reason — but you can find a reason in everything.",
+        "Life gets lighter when you stop carrying what isn’t yours.",
+        "One day you’ll miss the days you’re rushing through now.",
+        "Life is a collection of chapters — some sad, some happy, all worth reading.",
+        "The plan was never the point; the journey was.",
+        "Live in a way that your younger self would be proud of.",
+        "Life doesn’t get easier; you get stronger."
+      ]
+    },
+    {
+      "slug": "funny-quotes",
+      "name": "Funny",
+      "shelf": "lighter",
+      "intro": "Because some days you just need to laugh at it all.",
+      "quotes": [
+        "I’m not lazy — I’m on energy-saving mode.",
+        "My patience is like my WiFi signal: strong until someone walks in and ruins it.",
+        "I don’t trip — I perform random gravity checks.",
+        "If Monday had a face, I’d politely ask it to leave.",
+        "My brain has too many tabs open and I can’t find the one playing music.",
+        "I followed my heart and it led me to the fridge.",
+        "I’m not arguing; I’m just explaining why I’m right.",
+        "Adulthood is mostly saying “I’ll do it tomorrow” with confidence.",
+        "My bed and I have a special relationship — we’re perfect for each other, but my alarm clock is jealous.",
+        "I’ll stop procrastinating… right after the next episode.",
+        "Some people graduate with honors. I’m just honored to graduate from my to-do list.",
+        "I’m not addicted to coffee. We’re just in a very committed relationship."
+      ]
+    },
+    {
+      "slug": "birthday-quotes",
+      "name": "Birthday",
+      "shelf": "lighter",
+      "intro": "Wishes and words to celebrate another trip around the sun.",
+      "quotes": [
+        "Another year isn’t just added — it’s earned through growth, lessons, and resilience.",
+        "May this year bring you closer to the person you’re destined to become.",
+        "Birthdays aren’t just about aging; they’re about evolving into a stronger, wiser version of yourself.",
+        "Today is a reminder that the world is better because you’re in it.",
+        "Here’s to another year of laughter, love, and becoming more you.",
+        "Measure the year in laughs, not candles.",
+        "May your year be as bright as the candles on your cake.",
+        "Celebrate how far you’ve come and get excited for where you’re going.",
+        "Age is just the number of chapters — the story keeps getting better.",
+        "Wishing you a year full of moments that take your breath away.",
+        "Make a wish — then go make it happen.",
+        "Happy birthday to someone who makes ordinary days feel like a celebration."
+      ]
+    },
+    {
+      "slug": "short-quotes",
+      "name": "Short",
+      "shelf": "lighter",
+      "intro": "Big feelings in a few words — perfect for captions and quick reminders.",
+      "quotes": [
+        "Choose yourself every time.",
+        "Healing takes gentle courage.",
+        "Let go. Grow forward.",
+        "You owe yourself peace.",
+        "Silence reveals the truth.",
+        "Trust your inner voice.",
+        "Pain shapes, not defines.",
+        "You are becoming.",
+        "Love begins within.",
+        "Growth requires discomfort.",
+        "Stay soft. Stay strong.",
+        "Light follows persistence.",
+        "Protect your peace.",
+        "Believe in better.",
+        "Still here. Still growing."
+      ]
+    }
+  ]
+}
